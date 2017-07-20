@@ -6,3 +6,4 @@ release.properties
 .idea
 .DS_Store
 changes.txt
+*.iml
